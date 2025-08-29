@@ -33,7 +33,7 @@ const TestimonialsSection = () => {
           </h2>
           <p className="text-gray-600 max-w-2xl mx-auto">
             Leading researchers, organizations, and institutions recognize
-            ClariFi's impact on digital trust.
+            ClariFi&apos;s impact on digital trust.
           </p>
         </div>
         <div className="grid md:grid-cols-3 gap-8">
@@ -43,7 +43,7 @@ const TestimonialsSection = () => {
               className="bg-white rounded-xl shadow-md p-6 relative"
             >
               <div className="absolute top-6 left-6 text-5xl text-emerald-100">
-                "
+              &quot;
               </div>
               <div className="relative z-10">
                 <p className="text-gray-700 mb-6 pt-4">{testimonial.quote}</p>

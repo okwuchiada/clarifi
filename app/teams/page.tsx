@@ -220,7 +220,7 @@ export default function TeamsPage() {
                   Innovation
                 </h3>
                 <p className="text-gray-700">
-                  We continuously push the boundaries of what's possible in AI
+                  We continuously push the boundaries of what&apos;s possible in AI
                   detection, staying ahead of evolving synthetic content
                   generation technologies.
                 </p>
@@ -234,7 +234,7 @@ export default function TeamsPage() {
             <div className="max-w-3xl mx-auto text-center">
               <h2 className="text-3xl font-bold mb-6">Join Our Team</h2>
               <p className="text-xl text-gray-300 mb-8">
-                We're looking for passionate individuals who want to make a
+                We&apos;re looking for passionate individuals who want to make a
                 difference in the fight against digital misinformation.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">

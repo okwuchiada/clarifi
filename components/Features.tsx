@@ -42,7 +42,7 @@ const FeaturesSection = () => {
             Powerful Features
           </h2>
           <p className="text-gray-600 max-w-2xl mx-auto">
-            ClariFi comes equipped with everything you need to navigate today's
+            ClariFi comes equipped with everything you need to navigate today&apos;s
             complex information landscape.
           </p>
         </div>

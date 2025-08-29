@@ -125,7 +125,7 @@ export default function AboutUsPage() {
         <section className="py-16 bg-navy-50">
           <div className="container mx-auto px-4">
             <h2 className="text-3xl font-bold text-navy-900 mb-12 text-center">
-              The Problem We're Solving
+              The Problem We&apos;re Solving
             </h2>
             <div className="grid md:grid-cols-2 gap-12 max-w-4xl mx-auto">
               <div className="bg-white p-8 rounded-xl shadow-md">
@@ -150,12 +150,12 @@ export default function AboutUsPage() {
                   Eroding Trust
                 </h3>
                 <p className="text-gray-700 mb-4">
-                  When people can't trust what they see and read online, it
+                  When people can&apos;t trust what they see and read online, it
                   undermines public discourse, threatens democracy, and creates
                   social division.
                 </p>
                 <p className="text-gray-700">
-                  The "liar's dividend" means even authentic content can be
+                  The &quot;liar&apos;s dividend&quot; means even authentic content can be
                   dismissed as fake, creating a crisis of trust in digital
                   information.
                 </p>
@@ -237,7 +237,7 @@ export default function AboutUsPage() {
                     Ethical Principles
                   </h3>
                   <p className="text-gray-700 mb-4">
-                    We believe in transparency not censorship. ClariFi doesn't
+                    We believe in transparency not censorship. ClariFi doesn&apos;t
                     block AI content—it simply provides clear labeling so users
                     can make informed decisions.
                   </p>

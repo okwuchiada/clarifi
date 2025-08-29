@@ -33,9 +33,9 @@ const WhyClariFiSection = () => {
                   Eroding Trust
                 </h3>
                 <p className="text-gray-700">
-                  When people can't trust what they see and read online, it
+                  When people can&apos;t trust what they see and read online, it
                   undermines public discourse, threatens democracy, and creates
-                  social division. The "liar's dividend" means even authentic
+                  social division. The &quot;liar&apos;s dividend&quot; means even authentic
                   content is doubted.
                 </p>
               </div>
@@ -44,7 +44,7 @@ const WhyClariFiSection = () => {
                   Restoring Confidence
                 </h3>
                 <p className="text-gray-700">
-                  ClariFi doesn't block AI content—it simply provides
+                  ClariFi doesn&apos;t block AI content—it simply provides
                   transparency. By clearly labeling AI-generated material, we
                   empower users to make informed decisions about the information
                   they consume.

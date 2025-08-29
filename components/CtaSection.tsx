@@ -32,7 +32,7 @@ const CtaSection = () => {
               </div>
               <h3 className="text-xl font-bold mb-2">Thank You for Joining!</h3>
               <p className="text-gray-200">
-                We've received your request for early access. Our team will be
+                We&apos;ve received your request for early access. Our team will be
                 in touch soon with next steps.
               </p>
             </div>
